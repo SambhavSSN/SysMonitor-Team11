@@ -1,0 +1,3 @@
+/home/sambhav/Desktop/SysMonitor (1)/SysMonitor/Server/build/CMakeFiles/Server.dir
+/home/sambhav/Desktop/SysMonitor (1)/SysMonitor/Server/build/CMakeFiles/edit_cache.dir
+/home/sambhav/Desktop/SysMonitor (1)/SysMonitor/Server/build/CMakeFiles/rebuild_cache.dir
